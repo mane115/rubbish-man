@@ -1,0 +1,47 @@
+var users = [{
+	name: '郭昊',
+	weight: 2
+}, {
+	name: '求用',
+	weight: 1
+}, {
+	name: '45',
+	weight: 1
+}, {
+	name: '小样',
+	weight: 1
+}, {
+	name: '建南',
+	weight: 1
+}, {
+	name: '加盐',
+	weight: 1
+}, {
+	name: '蓉蓉',
+	weight: 1
+}, {
+	name: '冯心',
+	weight: 1
+}, {
+	name: '雄哥',
+	weight: 1
+}, {
+	name: '阿华',
+	weight: 1
+}, {
+	name: '微粒',
+	weight: 1
+}, {
+	name: '小莫',
+	weight: 1
+}, {
+	name: '登州',
+	weight: 1
+}, {
+	name: '领结',
+	weight: 1
+}, {
+	name: '东坡',
+	weight: 1
+}]
+module.exports = users
